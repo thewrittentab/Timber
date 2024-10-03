@@ -10,11 +10,11 @@
 {
   "current": {
     "color_primary": "#747474",
-    "color_secondary": "#bbb",
+    "color_secondary": "#22b767",
     "color_borders": "#e5e5e5",
     "color_body_bg": "#333333",
     "color_body_text": "#f2f2f2",
-    "color_footer_bg": "#000000",
+    "color_footer_bg": "#6A6A6A",
     "color_footer_text": "#f2f2f2",
     "color_footer_social_link": "#e5e5e5",
     "logo_use_image": true,
